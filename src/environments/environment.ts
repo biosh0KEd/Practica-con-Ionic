@@ -5,7 +5,11 @@
 export const environment = {
   production: false,
   firebase: {
+<<<<<<< HEAD
     apiKey: "--",
+=======
+    apiKey: "AIzaSyC-7l3JninOPl5yrBtmcEcCWniEZ-eSSyU",
+>>>>>>> a6e29fb41fa48d48bd8df176f0b513b80e4cb1ab
     authDomain: "ionictest-e7f92.firebaseapp.com",
     databaseURL: "https://ionictest-e7f92.firebaseio.com",
     projectId: "ionictest-e7f92",
